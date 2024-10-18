@@ -1,0 +1,12 @@
+C:\Users\geox2\source\repos\JAI Language\bin\Debug\JAI Language.dll
+C:\Users\geox2\source\repos\JAI Language\bin\Debug\JAI Language.vsix
+C:\Users\geox2\source\repos\JAI Language\bin\Debug\extension.vsixmanifest
+C:\Users\geox2\source\repos\JAI Language\obj\Debug\JAI Language.csproj.AssemblyReference.cache
+C:\Users\geox2\source\repos\JAI Language\obj\Debug\_EmptyResource.resources
+C:\Users\geox2\source\repos\JAI Language\obj\Debug\JAI Language.csproj.GenerateResource.cache
+C:\Users\geox2\source\repos\JAI Language\obj\Debug\JAI Language.csproj.CoreCompileInputs.cache
+C:\Users\geox2\source\repos\JAI Language\obj\Debug\JAI Language.dll
+C:\Users\geox2\source\repos\JAI Language\obj\Debug\JAI Language.pdb
+C:\Users\geox2\source\repos\JAI Language\obj\Debug\extension.vsixmanifest
+C:\Users\geox2\source\repos\JAI Language\obj\Debug\files.json
+C:\Users\geox2\source\repos\JAI Language\obj\Debug\createTemplateManifests.cache

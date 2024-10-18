@@ -1,0 +1,13 @@
+﻿; Registering the package
+[$RootKey$\InstalledProducts\JAI_LanguagePackage]
+"Package"="{4a17a633-fd2a-46fc-be2f-7022ace44920}"
+[$RootKey$\BindingPaths\{4a17a633-fd2a-46fc-be2f-7022ace44920}]
+"$PackageFolder$"=""
+
+; Registering the TextMate grammar
+[$RootKey$\TextMate\Repositories]
+"JAI_Language"="$PackageFolder$\Syntaxes"
+
+; Match file extensions with icons. See full icon list at https://glyphlist.azurewebsites.net/knownmonikers/
+[$RootKey$\ShellFileAssociations\.jai]
+"DefaultIconMoniker"="KnownMonikers.CSFile"
